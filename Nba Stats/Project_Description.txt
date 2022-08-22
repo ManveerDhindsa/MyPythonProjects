@@ -1,0 +1,3 @@
+This NBA stats program asks the user for the name of a NBA player.
+
+This will return the season average stats of the latest season for the player.
