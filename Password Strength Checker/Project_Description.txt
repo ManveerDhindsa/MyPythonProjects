@@ -1,0 +1,3 @@
+This code checks the strength of a passowrd enterered in the command line
+The strength is dependant on these catagories: on the length of the password, if it contains lower and upper case letters, numbers and special characters 
+It lowers the strenght if there are only 1 character for each type of character in that dependant catagory which would catch repeat characters of the same type
