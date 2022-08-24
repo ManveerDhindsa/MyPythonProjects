@@ -1,0 +1,5 @@
+This program asks the user for an input of passenger name and age, flight origin and destination.
+
+It returns how many passengers are on the flight, where its going from and going to, info on the passenger and some more text.
+
+There is a list of passengers and their info to avoid the user from inputting a name of someone not a flight.
