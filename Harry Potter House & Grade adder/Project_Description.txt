@@ -1,3 +1,6 @@
 This project takes an input of harry potter students with a csv file that contains name, characteristic, birthdate
 Using this info the harrypotterhousegrade.py program takes the characteristic and defines a house and using the birthdate defines a grade for each student
 The name, characteristic, birthdate, house and grade are added to an empty csv file
+
+
+There is also a pytest file to test possible inputs of each function
