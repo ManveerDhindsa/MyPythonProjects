@@ -1,0 +1,3 @@
+This code asks the user for a food budget, clothing budget and entertainment budget.
+The user enters if they want to withdraw or deposit or swap balances between cateogies of budgets or are done with changes.
+The program will return the updated budget.
