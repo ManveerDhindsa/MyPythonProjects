@@ -1,2 +1,2 @@
-This code asks the user as a command line prompt to input a shape, either (area or perimeter), and dimensions depending on the shape
+This code asks the user as a command line prompt to input a shape (triangle, square, rectangle, pentagon), either (area or perimeter), and dimensions depending on the shape
 This will return the area or perimeter of the shape and raise any errors in entrering the command line prompts
