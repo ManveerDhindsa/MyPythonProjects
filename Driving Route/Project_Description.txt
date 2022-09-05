@@ -1,0 +1,1 @@
+This program asks for a start and an end location. This will return the directions needed to reach the endpoint using BING MAP API.
