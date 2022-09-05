@@ -1,0 +1,1 @@
+Gets a location from user and returns Place_id: for the location.
