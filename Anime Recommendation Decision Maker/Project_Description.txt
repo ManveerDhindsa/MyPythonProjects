@@ -1,0 +1,10 @@
+This code will recommend you a high quality anime.
+
+You will enter a year, season, and genre for what you want.
+
+Enter the year in this format (2022, 2021, 2020,...)
+Enter the season in this format (summer, fall, spring, winter)
+Enter the genre in this format (Action, Romance, Adventure,...)
+
+You will get an anime returned to you with a quality score of atleast 7.00
+and if no anime exists for the critera, the program will end and let you know that no anime recommended.
