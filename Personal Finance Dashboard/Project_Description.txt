@@ -7,3 +7,5 @@ When this program is run a table will display with the transaction date and the 
 This will then be plotted in a bar chart.
 
 With the average dividend given at the bottom.
+
+To run this software use the command line prompt: streamlit run personal_finance_dashboard.py
