@@ -1,0 +1,9 @@
+This program creates a personal finance dashboard.
+
+I have downloaded a file from Questrade investing platform. (I have not included it for security reasons)
+
+When this program is run a table will display with the transaction date and the net amount of the dividends received to the account.
+
+This will then be plotted in a bar chart.
+
+With the average dividend given at the bottom.
