@@ -1,0 +1,6 @@
+This code is a game of snake, with a twist
+It is for shy people who want to ask their crush on a date.
+
+Once you hit a score of 50, the game will ask you on a date with a button for 'yes' and no button for 'no'.
+
+When the buttono is pressed the message 'LETS GOOOO' is desplayed
