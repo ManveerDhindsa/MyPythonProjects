@@ -4,3 +4,5 @@ It is for shy people who want to ask their crush on a date.
 Once you hit a score of 50, the game will ask you on a date with a button for 'yes' and no button for 'no'.
 
 When the buttono is pressed the message 'LETS GOOOO' is desplayed
+
+Note: I took the snake game from the internet and modified it for my liking and added the functions for asking the question and so on
