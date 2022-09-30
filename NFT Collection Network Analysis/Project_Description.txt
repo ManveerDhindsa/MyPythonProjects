@@ -3,3 +3,5 @@ Followed a tutorial by Avery Smith: https://www.youtube.com/watch?v=Fxdqwqo-1TI&
 This creates a display of the relationship between different NFT Whales which are large holders on the top nft collections
 
 This can potentially be used to determine the up and coming collections to earn money
+
+Need to download the sqlite file from this link: https://www.kaggle.com/datasets/simiotic/ethereum-nfts?resource=download
