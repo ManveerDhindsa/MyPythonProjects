@@ -1,0 +1,5 @@
+yahoo_finance_data.py is used to extract the data from yfinance library.
+
+eth_price_predictor.py program is used to predict the price of ethereum for the next 1 year.
+
+Using machine learning alrogitm from Prophet from facebook github.
