@@ -1,0 +1,7 @@
+This is a hangman game. 
+
+The text file is included from where a random word is chosen.
+
+The hang man game goes through the txt file and chooses a letter and the hangman game runs through and prompts the user for letter inputs.
+
+It will only let the user input one letter at a time and not do repeat letters.
