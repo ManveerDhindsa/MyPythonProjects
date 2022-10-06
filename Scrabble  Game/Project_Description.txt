@@ -1,0 +1,11 @@
+This game gives you letters the same way you would get in scrabble.
+
+You make a word from those letters and a score is given based on that words length and character combination.
+
+All words are found in words_ps4.txt
+This is to make sure the word created is a real word and can be checked from this list.
+
+The user is asked if they want to play the previous hand, play a new hand or exit the game
+The game continues until the user can't make a word or the letters in the hand run out.
+
+You can run the program again to play again.
