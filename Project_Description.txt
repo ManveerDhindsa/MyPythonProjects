@@ -1,0 +1,5 @@
+The goal of this project was to ask the user for an item they are looking for on amazon and their budget.
+Using this the program would find the best price to rating ratio to determine the best product from products that have a minimum of 100 reviews.
+The first page results were used as the first page typically has the best products.
+
+The URL and Name of the product are returned in the end if a product matching the criteria is found.
