@@ -1,0 +1,1 @@
+This project was made to translate English to French and English to German using IBM Watson.
