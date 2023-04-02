@@ -1,0 +1,5 @@
+This project was using a dataset with information on students and was used to predict their math grade at the end of the year. https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+The project was done using sklearn, pandas, and numpy
+
+This was a linear regression model which got around 85-90% on predicting the final grades
